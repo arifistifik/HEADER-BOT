@@ -52,12 +52,12 @@ CONTOH:
     EMAIL_REGEX = re.compile(r"[^@]+@[^@]+\.[^@]+")
     
     #============(5)================#
-    CHROME = 2.1.5
-WIN10 = 5.5.5
-MAC/WIN = 5.8.0
-IOSPAD = 8.10.2
 
-#######
+
+
+
+
+###============####
 
     APP_TYPE    = ApplicationType._VALUES_TO_NAMES[368]
     APP_VER     = '1.4.17'
